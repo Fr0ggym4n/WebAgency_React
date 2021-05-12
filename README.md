@@ -11,9 +11,9 @@ Your agency cares about its clients eyes, so they want a way to switch between a
 ### The Pages
 The website must have 3 pages, all accessible via navbar: 
 
->    Home, with the URL "/"
->    The agency, with the URL "/about"
->    Works with the URL "/works"
+    Home, with the URL "/"
+    The agency, with the URL "/about"
+    Works with the URL "/works"
 
 ### The Dark and Light themes
 There must be a button on the top-right corner of the webpage, allowing the user to switch from a light to a dark theme. The default theme will be the light one (BONUS: unless the user has his browser preferences set to dark).
