@@ -1,0 +1,11 @@
+.Works {
+    &__header {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        
+        &__titles {
+            width: 91vw;
+        }
+    }
+}
