@@ -1,0 +1,24 @@
+@import './base.scss';
+@import './variables.scss';
+
+.App {
+  padding: 0 25px 50px;
+  font-family: 'Quicksand', sans-serif;
+  background-color: var(--background-color);
+  color: var(--color-text);
+  min-height: 100vh;
+  @include transition();
+}
+
+h3 {
+  margin: 20px 0;
+}
+
+p {
+  margin: 5px 0;
+  white-space: pre-wrap;
+}
+
+a {
+  @include resetLink();
+}
